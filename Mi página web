@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>MI PAGINA WEB </title>
+    </head>
+    <body>
+         <section>
+            <h1>Fernanda</h1>
+         </section>
+         <section>
+            <div>tengo 16 años</div>
+            <div>5549269295 mi numero</div>
+            <div>mi color favorito lila</div>
+         </section>
+         <section>
+            <ul>
+                <li>hacer ejercicio</li>
+                <li>taekwondo</li>
+                <li>fiestas</li>
+            </ul>
+         </section>
+    </body>
+
+
+</html>
